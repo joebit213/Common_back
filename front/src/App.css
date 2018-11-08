@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -29,4 +29,52 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+
+
+.back{
+  background-image: linear-gradient(#3c4752,#7790a5);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  padding: 50px;
+}
+
+h1{
+  margin: 30px;
+  display: flex;
+  justify-content:center;
+  font-family: 'Kumar One Outline', cursive;
+}
+
+h3{
+  margin: 130px;
+}
+
+h2{
+  margin-left: 45%
+}
+
+.tracks-card{
+  margin: 20px;
+  margin-left: 90px;
+  width: 300px;
+  float: left;
+  border: none;
+}
+
+.bar-search{
+  display: flex;
+  justify-content:center;
+}
+
+.info-artist{
+  width: 500px;
+  height: 300px;
+  margin: 50px;
+  border: none
+}
+
+.flex{
+  display: flex;
 }

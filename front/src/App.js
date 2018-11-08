@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import './App.css';
 import Routes from './Routes';
 import {withRouter} from 'react-router-dom'
 
